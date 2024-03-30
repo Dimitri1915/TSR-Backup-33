@@ -12,6 +12,5 @@
 ### Créditos al creador:
 
 <aside>
-📖 Créditos al creador de la FVN George Squares
-
+📖 Créditos a [Echo Project](https://echoproject.itch.io/)
 </aside>

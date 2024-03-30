@@ -185,7 +185,7 @@ menu:
         $ STAGNIGHT_Points +=1
         $ MININT_Points +=1
         $ stagnighttext = "Harlan gets into fights with James? He usually keeps things professional."
-        $ stagnighttextes = "¿Harlan se pelea con James? Suele ser profesional."
+        $ stagnighttextes = "¿Harlan se pelea con James? Suele mantener las cosas con profesionalidad."
         $ willstag1interview2 = True
 
     "The Stag.":
