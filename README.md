@@ -11,6 +11,5 @@
 
 ### Créditos al creador:
 
-<aside>
-📖 Créditos a (Echo Project)[https://echoproject.itch.io/]
-</aside>
+> 📖 Créditos a [Echo Project](https://echoproject.itch.io/)
+> 
