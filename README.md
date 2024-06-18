@@ -1,6 +1,7 @@
 # The Smoke Room v33
 
-    - El Proyecto quedara descartado por motivos de nueva Update
+    ~~- El Proyecto quedara descartado por motivos de nueva Update~~
+    **- El Proyecto revive porque salí de la decadencia :>**
 
 - Esta es una copia de seguridad de los archivos del The Smoke Room.
 - Cómo los RPY, RPYC, Fotos,  Videos, Traducciones en proceso etc.
